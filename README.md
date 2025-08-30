@@ -47,8 +47,19 @@ To solve this, I had to run Chrome in a special testing mode.
 
 ---
 
-## 📸 Sneak Peek  
-(Add your app screenshots here later to make the repo even more attractive!)  
+## 📸 Sneak Peek 
+
+### Capturing Image 1 :
+![Homepage](screenshots/one.png)  
+
+### Smile Detection Result :
+![Upload](screenshots/two.png)  
+
+### Capturing Image 2 :
+![Result](screenshots/three.png)  
+
+### Smile Detection Result :
+![Output](screenshots/four.png)  
 
 ---
 
